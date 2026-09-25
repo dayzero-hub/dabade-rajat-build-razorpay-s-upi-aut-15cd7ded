@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/mock/client.ts","./src/mock/cred.ts","./src/mock/irctc.ts","./src/mock/meesho.ts","./src/mock/onemg.ts","./src/mock/razorpay.ts","./src/mock/zomato.ts"],"version":"5.6.3"}
